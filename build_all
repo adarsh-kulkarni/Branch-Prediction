@@ -1,0 +1,13 @@
+bench-run.pl --bench spec-cpu2006:int:401.bzip2:train --build base --prefix "pin -t obj-intel64/checkpoint1A_Gag.so -o bzip_gag.out -l 10000000000 --" --copy output.out --log LOG
+mv go.sh bzip_script.sh
+
+bench-run.pl --bench spec-cpu2006:int:403.gcc:train --build base --prefix "pin -t obj-intel64/checkpoint1A_Gag.so -o gcc_gag.out -l 10000000000 --" --copy output.out --log LOG
+mv go.sh gcc_script.sh
+
+bench-run.pl --bench spec-cpu2006:int:464.h264ref:train --build base --prefix "pin -t obj-intel64/checkpoint1A_Gag.so -o h264_gag.out -l 10000000000 --" --copy output.out --log LOG
+mv go.sh h264_script.sh
+
+bench-run.pl --bench spec-cpu2006:int:429.mcf:train --build base --prefix "pin -t obj-intel64/checkpoint1A_Gag.so -o mcf_gag.out -l 10000000000 --" --copy output.out --log LOG
+mv go.sh mcf_script.sh
+
+

@@ -1,0 +1,1042 @@
+Wed Nov 11 04:00:10 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:00:10 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:00:11 MST 2015
+Wed Nov 11 04:00:11 MST 2015
+Wed Nov 11 04:02:00 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:02:00 MST 2015
+Wed Nov 11 04:07:21 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:07:21 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:07:22 MST 2015
+Wed Nov 11 04:07:22 MST 2015
+Wed Nov 11 04:09:28 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:09:28 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:12:22 MST 2015
+Wed Nov 11 04:12:22 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Started : spec-cpu2006/int/403.gcc input: ref 0 at Started : spec-cpu2006/int/429.mcf input: ref 0 at Started : spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Wed Nov 11 04:45:39 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:45:42 MST 2015
+Wed Nov 11 04:45:42 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: ref 0 at Wed Nov 11 04:45:46 MST 2015
+Wed Nov 11 04:45:46 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 04:48:35 MST 2015
+Wed Nov 11 04:48:35 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: ref 0 at Wed Nov 11 04:50:12 MST 2015
+Wed Nov 11 04:50:12 MST 2015
+Wed Nov 11 04:53:12 MST 2015
+Started : spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:53:12 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:53:14 MST 2015
+Wed Nov 11 04:53:14 MST 2015
+Wed Nov 11 04:57:19 MST 2015
+Started : spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:57:19 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:57:20 MST 2015
+Wed Nov 11 04:57:20 MST 2015
+Wed Nov 11 04:58:03 MST 2015
+Started : spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:58:03 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:58:05 MST 2015
+Wed Nov 11 04:58:05 MST 2015
+Wed Nov 11 04:58:52 MST 2015
+Started : spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:58:52 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Wed Nov 11 04:58:55 MST 2015
+Wed Nov 11 04:58:55 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Started : spec-cpu2006/int/429.mcf input: ref 0 at Started : spec-cpu2006/int/464.h264ref input: ref 0 at Started : spec-cpu2006/int/403.gcc input: ref 0 at Started : spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Wed Nov 11 05:08:34 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: ref 0 at Wed Nov 11 05:08:42 MST 2015
+Wed Nov 11 05:08:42 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: ref 0 at Wed Nov 11 05:11:33 MST 2015
+Wed Nov 11 05:11:33 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: ref 0 at Wed Nov 11 05:11:48 MST 2015
+Wed Nov 11 05:11:48 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: ref 0 at Wed Nov 11 05:12:57 MST 2015
+Wed Nov 11 05:12:57 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Wed Nov 11 16:38:11 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Nov 11 16:38:23 MST 2015
+Wed Nov 11 16:38:23 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Nov 11 16:39:15 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Nov 11 16:39:15 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Nov 11 16:40:04 MST 2015
+Wed Nov 11 16:40:04 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Nov 11 16:40:34 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Nov 11 16:40:34 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Nov 11 16:41:26 MST 2015
+Wed Nov 11 16:41:26 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Nov 11 16:43:27 MST 2015
+Wed Nov 11 16:43:27 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Wed Nov 11 19:58:58 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Nov 11 19:59:10 MST 2015
+Wed Nov 11 19:59:10 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Nov 11 20:00:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Nov 11 20:00:07 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Nov 11 20:00:53 MST 2015
+Wed Nov 11 20:00:53 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Nov 11 20:01:35 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Nov 11 20:01:35 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Nov 11 20:02:24 MST 2015
+Wed Nov 11 20:02:24 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Nov 11 20:04:41 MST 2015
+Wed Nov 11 20:04:41 MST 2015
+Thu Nov 12 11:27:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:27:07 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:28:11 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:28:11 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:29:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:29:33 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:32:27 MST 2015
+Thu Nov 12 11:32:27 MST 2015
+Thu Nov 12 11:44:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:44:47 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:44:48 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:44:48 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:44:49 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:44:49 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:44:50 MST 2015
+Thu Nov 12 11:44:50 MST 2015
+Thu Nov 12 11:57:09 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:57:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 11:57:11 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:57:11 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 11:57:13 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:57:13 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 11:57:16 MST 2015
+Thu Nov 12 11:57:16 MST 2015
+Thu Nov 12 12:01:21 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 12:01:21 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 12:01:23 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 12:01:23 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 12:01:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 12:01:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 12:01:28 MST 2015
+Thu Nov 12 12:01:28 MST 2015
+Thu Nov 12 13:32:45 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 13:32:45 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 13:32:48 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 13:32:48 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 13:32:50 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 13:32:50 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 13:32:52 MST 2015
+Thu Nov 12 13:32:52 MST 2015
+Thu Nov 12 13:40:44 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 13:40:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Nov 12 13:40:46 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 13:40:46 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Nov 12 13:40:48 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 13:40:48 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Nov 12 13:40:50 MST 2015
+Thu Nov 12 13:40:50 MST 2015
+Fri Nov 13 14:20:39 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 14:20:39 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 14:21:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 14:21:47 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 14:23:13 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 14:23:13 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 14:26:20 MST 2015
+Fri Nov 13 14:26:20 MST 2015
+Fri Nov 13 14:54:40 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 14:54:40 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 14:54:51 MST 2015
+Fri Nov 13 14:54:51 MST 2015
+Fri Nov 13 15:03:46 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 15:03:46 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 15:03:58 MST 2015
+Fri Nov 13 15:03:58 MST 2015
+Fri Nov 13 15:15:36 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 15:15:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 15:16:44 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 15:16:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 15:18:09 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 15:18:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 15:21:16 MST 2015
+Fri Nov 13 15:21:16 MST 2015
+Fri Nov 13 15:22:22 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 15:22:22 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 15:23:30 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 15:23:30 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 15:24:56 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 15:24:56 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 15:28:02 MST 2015
+Fri Nov 13 15:28:02 MST 2015
+Fri Nov 13 15:28:59 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 15:28:59 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 15:29:11 MST 2015
+Fri Nov 13 15:29:11 MST 2015
+Fri Nov 13 15:37:37 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 15:37:37 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 15:41:07 MST 2015
+Fri Nov 13 15:41:07 MST 2015
+Fri Nov 13 15:42:42 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 15:42:42 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 15:44:33 MST 2015
+Fri Nov 13 15:44:33 MST 2015
+Fri Nov 13 16:00:44 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 16:00:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 16:01:52 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 16:01:52 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 16:03:17 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 16:03:17 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 16:06:24 MST 2015
+Fri Nov 13 16:06:24 MST 2015
+Fri Nov 13 19:31:11 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 19:31:11 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 19:32:18 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 19:32:18 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 19:33:44 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 19:33:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 19:36:51 MST 2015
+Fri Nov 13 19:36:51 MST 2015
+Fri Nov 13 19:57:42 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 19:57:42 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 19:58:51 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 19:58:51 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 20:00:16 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 20:00:16 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 20:03:26 MST 2015
+Fri Nov 13 20:03:26 MST 2015
+Fri Nov 13 20:05:22 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 20:05:22 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 20:05:33 MST 2015
+Fri Nov 13 20:05:33 MST 2015
+Fri Nov 13 20:12:37 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 20:12:37 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 20:16:24 MST 2015
+Fri Nov 13 20:16:24 MST 2015
+Fri Nov 13 20:19:24 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 20:19:24 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 20:21:22 MST 2015
+Fri Nov 13 20:21:22 MST 2015
+Fri Nov 13 22:46:36 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 22:46:36 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 22:46:47 MST 2015
+Fri Nov 13 22:46:47 MST 2015
+Fri Nov 13 22:48:43 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 22:48:43 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 22:49:54 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 22:49:54 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 22:51:24 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 22:51:24 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 22:54:41 MST 2015
+Fri Nov 13 22:54:41 MST 2015
+Fri Nov 13 22:56:46 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 22:56:46 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 23:00:46 MST 2015
+Fri Nov 13 23:00:46 MST 2015
+Fri Nov 13 23:03:23 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 23:03:23 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 23:05:21 MST 2015
+Fri Nov 13 23:05:21 MST 2015
+Fri Nov 13 23:17:15 MST 2015
+Fri Nov 13 23:17:15 MST 2015
+Fri Nov 13 23:17:15 MST 2015
+Fri Nov 13 23:17:15 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 23:17:16 MST 2015
+Fri Nov 13 23:17:16 MST 2015
+Fri Nov 13 23:17:16 MST 2015
+Fri Nov 13 23:17:16 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Fri Nov 13 23:17:27 MST 2015
+Fri Nov 13 23:17:27 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 23:18:27 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 23:18:27 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Fri Nov 13 23:19:24 MST 2015
+Fri Nov 13 23:19:24 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 23:19:58 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 23:19:58 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Fri Nov 13 23:21:18 MST 2015
+Fri Nov 13 23:21:18 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 23:23:16 MST 2015
+Fri Nov 13 23:23:16 MST 2015
+Fri Nov 13 23:26:42 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 23:26:42 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 23:27:53 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 23:27:53 MST 2015
+Fri Nov 13 23:32:05 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 23:32:05 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Fri Nov 13 23:32:06 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 23:32:06 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Fri Nov 13 23:32:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 23:32:07 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Fri Nov 13 23:32:07 MST 2015
+Fri Nov 13 23:32:07 MST 2015
+Sat Nov 21 17:38:51 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Sat Nov 21 17:38:51 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Sat Nov 21 17:40:00 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Sat Nov 21 17:40:00 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Sat Nov 21 17:41:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Sat Nov 21 17:41:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Sat Nov 21 17:44:37 MST 2015
+Sat Nov 21 17:44:37 MST 2015
+Sat Nov 21 17:54:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Sat Nov 21 17:54:33 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Sat Nov 21 17:55:41 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Sat Nov 21 17:55:41 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Sat Nov 21 17:57:06 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Sat Nov 21 17:57:06 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Sat Nov 21 18:00:11 MST 2015
+Sat Nov 21 18:00:11 MST 2015
+Sat Nov 21 18:19:12 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Sat Nov 21 18:19:12 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Sat Nov 21 18:22:39 MST 2015
+Sat Nov 21 18:22:39 MST 2015
+Sat Nov 21 18:31:29 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Sat Nov 21 18:31:29 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Sat Nov 21 18:34:55 MST 2015
+Sat Nov 21 18:34:55 MST 2015
+Sat Nov 21 18:39:16 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Sat Nov 21 18:39:16 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Sat Nov 21 18:39:27 MST 2015
+Sat Nov 21 18:39:27 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Started : spec-cpu2006/int/400.perlbench input: ref 0 at Mon Nov 30 21:22:17 MST 2015
+Finished: spec-cpu2006/int/400.perlbench input: ref 0 at Mon Nov 30 21:22:17 MST 2015
+Mon Nov 30 21:22:17 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Mon Nov 30 21:22:31 MST 2015
+Mon Nov 30 21:22:31 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Mon Nov 30 21:24:53 MST 2015
+Mon Nov 30 21:24:53 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Mon Nov 30 21:26:45 MST 2015
+Mon Nov 30 21:26:45 MST 2015
+Mon Nov 30 21:31:36 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Mon Nov 30 21:31:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Mon Nov 30 21:33:03 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Mon Nov 30 21:33:03 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Mon Nov 30 21:34:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Mon Nov 30 21:34:47 MST 2015
+Mon Nov 30 21:39:34 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Mon Nov 30 21:39:34 MST 2015
+Mon Nov 30 21:39:40 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Mon Nov 30 21:39:40 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Mon Nov 30 21:41:01 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Mon Nov 30 21:41:01 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Mon Nov 30 21:42:43 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Mon Nov 30 21:42:43 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Mon Nov 30 21:46:40 MST 2015
+Mon Nov 30 21:46:40 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Tue Dec  1 15:01:45 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Tue Dec  1 15:01:57 MST 2015
+Tue Dec  1 15:01:57 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Tue Dec  1 15:02:55 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Tue Dec  1 15:02:55 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Tue Dec  1 15:03:49 MST 2015
+Tue Dec  1 15:03:49 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Tue Dec  1 15:04:20 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Tue Dec  1 15:04:20 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Tue Dec  1 15:05:36 MST 2015
+Tue Dec  1 15:05:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Tue Dec  1 15:07:35 MST 2015
+Tue Dec  1 15:07:35 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Wed Dec 23 01:02:21 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 01:02:34 MST 2015
+Wed Dec 23 01:02:34 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 01:03:32 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 01:03:32 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 01:04:19 MST 2015
+Wed Dec 23 01:04:19 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 01:04:59 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 01:04:59 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 01:05:54 MST 2015
+Wed Dec 23 01:05:54 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 01:08:11 MST 2015
+Wed Dec 23 01:08:11 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Wed Dec 23 01:13:46 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 01:13:58 MST 2015
+Wed Dec 23 01:13:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 01:14:57 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 01:14:57 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 01:15:45 MST 2015
+Wed Dec 23 01:15:45 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 01:16:23 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 01:16:23 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 01:17:19 MST 2015
+Wed Dec 23 01:17:19 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 01:19:31 MST 2015
+Wed Dec 23 01:19:31 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Wed Dec 23 10:11:22 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 10:11:34 MST 2015
+Wed Dec 23 10:11:34 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 10:12:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 10:12:33 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 10:13:27 MST 2015
+Wed Dec 23 10:13:27 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 10:14:01 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 10:14:01 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 10:15:09 MST 2015
+Wed Dec 23 10:15:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 10:17:15 MST 2015
+Wed Dec 23 10:17:15 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Wed Dec 23 10:32:22 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 10:32:34 MST 2015
+Wed Dec 23 10:32:34 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 10:33:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 10:33:33 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 10:34:20 MST 2015
+Wed Dec 23 10:34:20 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 10:35:02 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 10:35:02 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 10:35:54 MST 2015
+Wed Dec 23 10:35:54 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 10:38:12 MST 2015
+Wed Dec 23 10:38:12 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Wed Dec 23 10:59:47 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 10:59:59 MST 2015
+Wed Dec 23 10:59:59 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 11:00:57 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:00:57 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 11:01:41 MST 2015
+Wed Dec 23 11:01:41 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:02:26 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:02:26 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:03:19 MST 2015
+Wed Dec 23 11:03:19 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:05:37 MST 2015
+Wed Dec 23 11:05:37 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Wed Dec 23 11:10:58 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:11:10 MST 2015
+Wed Dec 23 11:11:10 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 11:12:09 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:12:09 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 11:12:58 MST 2015
+Wed Dec 23 11:12:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:13:39 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:13:39 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:14:32 MST 2015
+Wed Dec 23 11:14:32 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:16:51 MST 2015
+Wed Dec 23 11:16:51 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Wed Dec 23 11:23:48 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:23:59 MST 2015
+Wed Dec 23 11:23:59 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 11:24:58 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:24:58 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 11:25:44 MST 2015
+Wed Dec 23 11:25:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:26:29 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:26:29 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:27:23 MST 2015
+Wed Dec 23 11:27:23 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:29:41 MST 2015
+Wed Dec 23 11:29:41 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Wed Dec 23 11:35:42 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:35:53 MST 2015
+Wed Dec 23 11:35:53 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 11:36:54 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:36:54 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 11:37:47 MST 2015
+Wed Dec 23 11:37:47 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:38:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:38:25 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:39:18 MST 2015
+Wed Dec 23 11:39:18 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:41:41 MST 2015
+Wed Dec 23 11:41:41 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Wed Dec 23 11:49:00 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 11:49:12 MST 2015
+Wed Dec 23 11:49:12 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 11:50:19 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:50:19 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 11:51:14 MST 2015
+Wed Dec 23 11:51:14 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 11:51:57 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:51:57 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 11:52:58 MST 2015
+Wed Dec 23 11:52:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 11:55:26 MST 2015
+Wed Dec 23 11:55:26 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Wed Dec 23 12:01:46 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 12:01:58 MST 2015
+Wed Dec 23 12:01:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 12:03:03 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:03:03 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 12:03:55 MST 2015
+Wed Dec 23 12:03:55 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:04:41 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:04:41 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 12:05:40 MST 2015
+Wed Dec 23 12:05:40 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:08:10 MST 2015
+Wed Dec 23 12:08:10 MST 2015
+Wed Dec 23 12:12:28 MST 2015
+Wed Dec 23 12:12:28 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 12:12:28 MST 2015
+Wed Dec 23 12:12:28 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 12:12:28 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 12:12:28 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 12:12:28 MST 2015
+Wed Dec 23 12:12:28 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 12:12:44 MST 2015
+Wed Dec 23 12:12:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 12:13:44 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:13:44 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 12:14:36 MST 2015
+Wed Dec 23 12:14:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:15:18 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:15:18 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 12:16:14 MST 2015
+Wed Dec 23 12:16:14 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:18:36 MST 2015
+Wed Dec 23 12:18:36 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Wed Dec 23 12:24:50 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 12:25:02 MST 2015
+Wed Dec 23 12:25:02 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 12:26:02 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:26:02 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 12:26:57 MST 2015
+Wed Dec 23 12:26:57 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 12:27:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:27:33 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 12:28:30 MST 2015
+Wed Dec 23 12:28:30 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 12:30:50 MST 2015
+Wed Dec 23 12:30:50 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Wed Dec 23 20:54:46 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 20:54:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 20:54:47 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Wed Dec 23 20:54:47 MST 2015
+Wed Dec 23 20:54:47 MST 2015
+Wed Dec 23 20:54:47 MST 2015
+Wed Dec 23 20:54:47 MST 2015
+Wed Dec 23 20:54:47 MST 2015
+Wed Dec 23 20:54:47 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 20:54:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 20:54:47 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 20:54:48 MST 2015
+Wed Dec 23 20:54:48 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Wed Dec 23 21:11:24 MST 2015
+Wed Dec 23 21:11:24 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Finished: spec-cpu2006/int/464.h264ref input: train 0 at Wed Dec 23 21:11:25 MST 2015
+Wed Dec 23 21:11:25 MST 2015
+Wed Dec 23 21:11:25 MST 2015
+Wed Dec 23 21:11:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 21:11:25 MST 2015
+Wed Dec 23 21:11:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Wed Dec 23 21:11:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 21:11:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Wed Dec 23 21:11:25 MST 2015
+Wed Dec 23 21:11:25 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Thu Dec 24 04:53:46 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 04:53:58 MST 2015
+Thu Dec 24 04:53:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 04:55:13 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 04:55:13 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 04:56:09 MST 2015
+Thu Dec 24 04:56:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 04:57:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 04:57:07 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 04:58:04 MST 2015
+Thu Dec 24 04:58:04 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 05:01:03 MST 2015
+Thu Dec 24 05:01:03 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Thu Dec 24 05:21:31 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 05:21:43 MST 2015
+Thu Dec 24 05:21:43 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 05:23:08 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 05:23:08 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 05:24:09 MST 2015
+Thu Dec 24 05:24:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 05:25:15 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 05:25:15 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 05:26:15 MST 2015
+Thu Dec 24 05:26:15 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 05:29:40 MST 2015
+Thu Dec 24 05:29:40 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Thu Dec 24 05:34:50 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 05:35:02 MST 2015
+Thu Dec 24 05:35:02 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 05:36:28 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 05:36:28 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 05:37:31 MST 2015
+Thu Dec 24 05:37:31 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 05:38:34 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 05:38:34 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 05:39:36 MST 2015
+Thu Dec 24 05:39:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 05:42:59 MST 2015
+Thu Dec 24 05:42:59 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Thu Dec 24 05:46:21 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 05:49:57 MST 2015
+Thu Dec 24 05:49:57 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 05:59:53 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 05:59:53 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 06:06:37 MST 2015
+Thu Dec 24 06:06:37 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 06:09:56 MST 2015
+Thu Dec 24 06:09:56 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 06:14:09 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 06:14:09 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 06:51:49 MST 2015
+Thu Dec 24 06:51:49 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Thu Dec 24 06:53:31 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 06:53:43 MST 2015
+Thu Dec 24 06:53:43 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 06:55:08 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 06:55:08 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 06:56:10 MST 2015
+Thu Dec 24 06:56:10 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 06:57:15 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 06:57:15 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 06:58:16 MST 2015
+Thu Dec 24 06:58:16 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:01:41 MST 2015
+Thu Dec 24 07:01:41 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Thu Dec 24 07:08:03 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 07:08:15 MST 2015
+Thu Dec 24 07:08:15 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 07:09:41 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:09:41 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 07:10:42 MST 2015
+Thu Dec 24 07:10:42 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:11:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:11:47 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 07:12:49 MST 2015
+Thu Dec 24 07:12:49 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:16:14 MST 2015
+Thu Dec 24 07:16:14 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Thu Dec 24 07:40:08 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 07:40:08 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:40:08 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:40:08 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:40:08 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:40:09 MST 2015
+Thu Dec 24 07:40:09 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Thu Dec 24 07:43:33 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 07:43:45 MST 2015
+Thu Dec 24 07:43:45 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 07:44:41 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:44:41 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 07:45:28 MST 2015
+Thu Dec 24 07:45:28 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 07:46:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:46:07 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 07:47:02 MST 2015
+Thu Dec 24 07:47:02 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 07:49:13 MST 2015
+Thu Dec 24 07:49:13 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Thu Dec 24 08:12:32 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 08:12:44 MST 2015
+Thu Dec 24 08:12:44 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 08:13:40 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 08:13:40 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 08:14:25 MST 2015
+Thu Dec 24 08:14:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 08:15:06 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 08:15:06 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 08:16:00 MST 2015
+Thu Dec 24 08:16:00 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 08:18:11 MST 2015
+Thu Dec 24 08:18:11 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Thu Dec 24 08:23:56 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 08:24:08 MST 2015
+Thu Dec 24 08:24:08 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 08:25:06 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 08:25:06 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 08:25:53 MST 2015
+Thu Dec 24 08:25:53 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 08:26:34 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 08:26:34 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 08:27:30 MST 2015
+Thu Dec 24 08:27:30 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 08:29:43 MST 2015
+Thu Dec 24 08:29:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Thu Dec 24 09:20:43 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 09:20:54 MST 2015
+Thu Dec 24 09:20:54 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 09:21:51 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 09:21:51 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 09:22:37 MST 2015
+Thu Dec 24 09:22:37 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 09:23:19 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 09:23:19 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 09:24:17 MST 2015
+Thu Dec 24 09:24:17 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 09:26:28 MST 2015
+Thu Dec 24 09:26:28 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Thu Dec 24 09:46:27 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 09:46:39 MST 2015
+Thu Dec 24 09:46:39 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 09:47:36 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 09:47:36 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 09:48:24 MST 2015
+Thu Dec 24 09:48:24 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 09:49:02 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 09:49:02 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 09:49:58 MST 2015
+Thu Dec 24 09:49:58 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 09:52:07 MST 2015
+Thu Dec 24 09:52:07 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Thu Dec 24 11:25:24 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 11:25:37 MST 2015
+Thu Dec 24 11:25:37 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 11:27:04 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 11:27:04 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 11:27:59 MST 2015
+Thu Dec 24 11:27:59 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 11:29:10 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 11:29:10 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 11:30:21 MST 2015
+Thu Dec 24 11:30:21 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 11:33:42 MST 2015
+Thu Dec 24 11:33:42 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Thu Dec 24 20:16:38 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:16:50 MST 2015
+Thu Dec 24 20:16:50 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 20:17:53 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:17:53 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 20:18:42 MST 2015
+Thu Dec 24 20:18:42 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:19:27 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:19:27 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 20:20:25 MST 2015
+Thu Dec 24 20:20:25 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:22:53 MST 2015
+Thu Dec 24 20:22:53 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Thu Dec 24 20:27:16 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:27:28 MST 2015
+Thu Dec 24 20:27:28 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 20:28:32 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:28:32 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 20:29:22 MST 2015
+Thu Dec 24 20:29:22 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:30:07 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:30:07 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 20:31:04 MST 2015
+Thu Dec 24 20:31:04 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:33:32 MST 2015
+Thu Dec 24 20:33:32 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Thu Dec 24 20:34:45 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:34:57 MST 2015
+Thu Dec 24 20:34:57 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 20:36:01 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:36:01 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 20:36:56 MST 2015
+Thu Dec 24 20:36:56 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:37:38 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:37:38 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 20:38:33 MST 2015
+Thu Dec 24 20:38:33 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:41:05 MST 2015
+Thu Dec 24 20:41:05 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Thu Dec 24 20:45:47 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:46:00 MST 2015
+Thu Dec 24 20:46:00 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 20:47:27 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:47:27 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 20:48:28 MST 2015
+Thu Dec 24 20:48:28 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 20:49:35 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:49:35 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 20:50:38 MST 2015
+Thu Dec 24 20:50:38 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 20:54:07 MST 2015
+Thu Dec 24 20:54:07 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Thu Dec 24 20:59:08 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 20:59:20 MST 2015
+Thu Dec 24 20:59:20 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 21:00:25 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:00:25 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 21:01:15 MST 2015
+Thu Dec 24 21:01:15 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:02:01 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:02:01 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 21:02:56 MST 2015
+Thu Dec 24 21:02:56 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:05:29 MST 2015
+Thu Dec 24 21:05:29 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Thu Dec 24 21:10:06 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 21:10:18 MST 2015
+Thu Dec 24 21:10:18 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 21:11:15 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:11:15 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 21:12:04 MST 2015
+Thu Dec 24 21:12:04 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:12:43 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:12:43 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 21:13:32 MST 2015
+Thu Dec 24 21:13:32 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:15:50 MST 2015
+Thu Dec 24 21:15:50 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Started : spec-cpu2006/int/429.mcf input: train 0 at Started : spec-cpu2006/int/464.h264ref input: train 0 at Started : spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Thu Dec 24 21:20:24 MST 2015
+Finished: spec-cpu2006/int/403.gcc input: train 0 at Thu Dec 24 21:20:36 MST 2015
+Thu Dec 24 21:20:36 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu Dec 24 21:21:33 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:21:33 MST 2015
+Finished: spec-cpu2006/int/429.mcf input: train 0 at Thu Dec 24 21:22:21 MST 2015
+Thu Dec 24 21:22:21 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu Dec 24 21:23:02 MST 2015
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:23:02 MST 2015
+Finished: spec-cpu2006/int/464.h264ref input: train 0 at Thu Dec 24 21:23:53 MST 2015
+Thu Dec 24 21:23:53 MST 2015
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu Dec 24 21:26:10 MST 2015
+Thu Dec 24 21:26:10 MST 2015
